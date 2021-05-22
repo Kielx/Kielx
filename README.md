@@ -7,9 +7,9 @@ Software Developer currently working on finishing my CS Degree while also being 
 
 ## Tech Stack
 
+![Linux Badge](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=arch-linux&logoColor=white&color=333)
 ![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=arch-linux&logoColor=white&color=333)
-![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=arch-linux&logoColor=white&color=333)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 [![Kielx's Github Stats](https://github-readme-stats.vercel.app/api?username=kielx&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Kielx/Kielx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTkxMTgzNzUsLTExNjI0NDIsNzQ1Nz
-IyODg0LDQ1MDQwNjg4NiwzNDcxODQxNyw2MzUzNTU2NjhdfQ==
-
+eyJoaXN0b3J5IjpbLTkwMDk3MDYwLC0xNTk5MTE4Mzc1LC0xMT
+YyNDQyLDc0NTcyMjg4NCw0NTA0MDY4ODYsMzQ3MTg0MTcsNjM1
+MzU1NjY4XX0=
 -->
