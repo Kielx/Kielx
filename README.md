@@ -9,7 +9,8 @@ Software Developer currently working on finishing my CS Degree while also being 
 ## ⚙️ Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=arch-linux&logoColor=white&color=0373fc"></img>
-<img src="https://img.shields.io/badge/EDITOR-VSCODE-informational?style=flat&logo=visual-studio-c&logoColor=white&color=0373fc"></img>
+<img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Code-VSCODE-informational?style=flat&logo=visual-studio-code&logoColor=white&color=0373fc"></img>
 </p>
 
 ##  📈 Github Stats
@@ -34,7 +35,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzMzMDcxOTcsLTE1OTkxMTgzNzUsLT
+eyJoaXN0b3J5IjpbLTE0MDk1NzA3OTEsLTE1OTkxMTgzNzUsLT
 ExNjI0NDIsNzQ1NzIyODg0LDQ1MDQwNjg4NiwzNDcxODQxNyw2
 MzUzNTU2NjhdfQ==
 -->
