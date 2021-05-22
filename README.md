@@ -16,7 +16,8 @@ Software Developer currently working on finishing my CS Degree while also being 
 <img src="https://img.shields.io/badge/Tech-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-NodeJS-informational?style=flat&logo=node-dot-js&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=blue"></img>
-<img src="https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=MongoDB&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=windows-terminal&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=windows-terminal&logoColor=white&color=blue"></img>
 </p>
 
 ##  📈 Github Stats
@@ -41,7 +42,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzUxNDkyNDUzLC0xNTk5MTE4Mzc1LC0xMT
-YyNDQyLDc0NTcyMjg4NCw0NTA0MDY4ODYsMzQ3MTg0MTcsNjM1
-MzU1NjY4XX0=
+eyJoaXN0b3J5IjpbLTEzNjA5NzM3Miw3NTE0OTI0NTMsLTE1OT
+kxMTgzNzUsLTExNjI0NDIsNzQ1NzIyODg0LDQ1MDQwNjg4Niwz
+NDcxODQxNyw2MzUzNTU2NjhdfQ==
 -->
