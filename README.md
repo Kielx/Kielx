@@ -13,6 +13,7 @@ Software Developer currently working on finishing my CS Degree while also being 
 </p>
 [![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 [![Kielx's Github Stats](https://github-readme-stats.vercel.app/api?username=kielx&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Kielx/Kielx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzU0MjYsLTE1OTkxMTgzNzUsLTExNj
-I0NDIsNzQ1NzIyODg0LDQ1MDQwNjg4NiwzNDcxODQxNyw2MzUz
-NTU2NjhdfQ==
+eyJoaXN0b3J5IjpbLTE1NzkyOTgzMjAsLTE1OTkxMTgzNzUsLT
+ExNjI0NDIsNzQ1NzIyODg0LDQ1MDQwNjg4NiwzNDcxODQxNyw2
+MzUzNTU2NjhdfQ==
 -->
