@@ -15,8 +15,8 @@ Software Developer currently working on finishing my CS Degree while also being 
 ##  📈 Github Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=3"></img>
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kielx&count_private=true&show_icons=true"></img>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=3&theme=shades-of-purple"></img>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kielx&count_private=true&show_icons=true&theme=shades-of-purple"></img>
 </p>
 
 <!--
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MDI5OTA1LC0xNTk5MTE4Mzc1LC0xMT
+eyJoaXN0b3J5IjpbOTI2MjQ0MDQ5LC0xNTk5MTE4Mzc1LC0xMT
 YyNDQyLDc0NTcyMjg4NCw0NTA0MDY4ODYsMzQ3MTg0MTcsNjM1
 MzU1NjY4XX0=
 -->
