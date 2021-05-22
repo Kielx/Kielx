@@ -6,12 +6,13 @@ Software Developer currently working on finishing my CS Degree while also being 
 - 📫 Contact me at kielx.dev@gmail.com
 
 
-## Tech Stack
+## ⚙️ Tech Stack
 <p align="center">
 <img src="https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=arch-linux&logoColor=white&color=333"></img>
 <img src="https://img.shields.io/badge/EDITOR-VSCODE-informational?style=flat&logo=arch-linux&logoColor=white&color=333"></img>
 </p>
-## Github Stats
+
+##  📈 Github Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=3"></img>
@@ -33,7 +34,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNDAzNzc3NCwtMTU5OTExODM3NSwtMT
-E2MjQ0Miw3NDU3MjI4ODQsNDUwNDA2ODg2LDM0NzE4NDE3LDYz
-NTM1NTY2OF19
+eyJoaXN0b3J5IjpbLTE0MDgyOTY5NDUsLTE1OTkxMTgzNzUsLT
+ExNjI0NDIsNzQ1NzIyODg0LDQ1MDQwNjg4NiwzNDcxODQxNyw2
+MzUzNTU2NjhdfQ==
 -->
