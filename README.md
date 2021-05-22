@@ -1,5 +1,4 @@
-### Hi there!  I'm Krzysztof 👋
-
+### Hi there!  I'm Krzysztof <img src="https://raw.githubusercontent.com/Kielx/Kielx/main/wave.gif" width="30px">
 Software Developer currently working on finishing my CS Degree while also being a Law Enforcer, EULEX Peacekeeping Mission in Kosovo Veteran, Strength Coach and a family man.
 
 <!--
@@ -17,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNDA2ODg2LDM0NzE4NDE3LDYzNTM1NT
-Y2OF19
+eyJoaXN0b3J5IjpbNDk4MDM0ODMsNDUwNDA2ODg2LDM0NzE4ND
+E3LDYzNTM1NTY2OF19
 -->
