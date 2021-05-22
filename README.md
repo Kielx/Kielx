@@ -1,6 +1,6 @@
 ### Hi there!  I'm Krzysztof 👋
 
-I am a 👋 
+I 👋'm a Software Developer  
 
 <!--
 **Kielx/Kielx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1MzU1NjY4LC0xNjEwMTI0MTczXX0=
+eyJoaXN0b3J5IjpbMzQ3MTg0MTcsNjM1MzU1NjY4XX0=
 -->
