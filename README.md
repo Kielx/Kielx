@@ -5,7 +5,7 @@ Software Developer currently working on finishing my CS Degree while also being 
 - 📚 I’m currently learning C/C++, and brushing up my MERN Stack
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 [![Kielx's Github Stats](https://github-readme-stats.vercel.app/api?username=kielx&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Kielx/Kielx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTUxOTI4MDksNDUwNDA2ODg2LDM0Nz
-E4NDE3LDYzNTM1NTY2OF19
+eyJoaXN0b3J5IjpbNzQ1NzIyODg0LDQ1MDQwNjg4NiwzNDcxOD
+QxNyw2MzUzNTU2NjhdfQ==
 -->
