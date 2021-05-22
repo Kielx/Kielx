@@ -4,7 +4,11 @@ Software Developer currently working on finishing my CS Degree while also being 
 - 🛠️ I’m currently working on my Terminal-themed Portfolio site powered by Gatsby and my C/C++ CS Degree assignments and projects.
 - 📚 I’m currently learning C/C++, and brushing up my MERN Stack
 <hr>
-![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=arch-linux&logoColor=white&color=2bbc8a)
+
+## Tech Stack
+
+![](https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=arch-linux&logoColor=white&color=333)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 [![Kielx's Github Stats](https://github-readme-stats.vercel.app/api?username=kielx&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
@@ -22,6 +26,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjI0NDIsNzQ1NzIyODg0LDQ1MDQwNj
-g4NiwzNDcxODQxNyw2MzUzNTU2NjhdfQ==
+eyJoaXN0b3J5IjpbLTMwNTMxNTcyMywtMTE2MjQ0Miw3NDU3Mj
+I4ODQsNDUwNDA2ODg2LDM0NzE4NDE3LDYzNTM1NTY2OF19
 -->
