@@ -12,6 +12,7 @@ Software Developer currently working on finishing my CS Degree while also being 
 <img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-React-informational?style=flat&logo=react&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-NodeJS-informational?style=flat&logo=node-dot-js&logoColor=white&color=blue"></img>
@@ -47,7 +48,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTY1Mjg1OCw3NTE0OTI0NTMsLTE1OT
-kxMTgzNzUsLTExNjI0NDIsNzQ1NzIyODg0LDQ1MDQwNjg4Niwz
-NDcxODQxNyw2MzUzNTU2NjhdfQ==
+eyJoaXN0b3J5IjpbLTEwMTU5MDExMTUsNzUxNDkyNDUzLC0xNT
+k5MTE4Mzc1LC0xMTYyNDQyLDc0NTcyMjg4NCw0NTA0MDY4ODYs
+MzQ3MTg0MTcsNjM1MzU1NjY4XX0=
 -->
