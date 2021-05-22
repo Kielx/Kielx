@@ -9,7 +9,7 @@ Software Developer currently working on finishing my CS Degree while also being 
 
 <p align="center">
 <img src="https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=arch-linux&logoColor=white&color=333"></img>
-<img src="https://img.shields.io/badge/EDITOR-LINUX-informational?style=flat&logo=arch-linux&logoColor=white&color=333"></img>
+<img src="https://img.shields.io/badge/EDITOR-VSCODE-informational?style=flat&logo=arch-linux&logoColor=white&color=333"></img>
 </p>
 [![Top Coding Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
 [![Kielx's Github Stats](https://github-readme-stats.vercel.app/api?username=kielx&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0NzU2MDE0LC0xNTk5MTE4Mzc1LC0xMT
-YyNDQyLDc0NTcyMjg4NCw0NTA0MDY4ODYsMzQ3MTg0MTcsNjM1
-MzU1NjY4XX0=
+eyJoaXN0b3J5IjpbMTIzMzU0MjYsLTE1OTkxMTgzNzUsLTExNj
+I0NDIsNzQ1NzIyODg0LDQ1MDQwNjg4NiwzNDcxODQxNyw2MzUz
+NTU2NjhdfQ==
 -->
