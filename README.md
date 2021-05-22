@@ -1,8 +1,11 @@
 ### Hi there!  I'm Krzysztof <img src="https://raw.githubusercontent.com/Kielx/Kielx/main/wave.gif" width="30px">
 Software Developer currently working on finishing my CS Degree while also being a Law Enforcer, EULEX Peacekeeping Mission in Kosovo Veteran, Strength Coach and a family man.
 
-- 🛠️ I’m currently working on my Terminal-themed Portfolio site powered by Gatsby and my C/C++ CS Degree assignments
+- 🛠️ I’m currently working on my Terminal-themed Portfolio site powered by Gatsby and my C/C++ CS Degree assignments and projects.
 - 📚 I’m currently learning C/C++, and brushing up my MERN Stack
+<hr>
+
+[![Kielx's Github Stats](https://github-readme-stats.vercel.app/api?username=kielx)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Kielx/Kielx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4ODIxODU0Nyw0NTA0MDY4ODYsMzQ3MT
+eyJoaXN0b3J5IjpbMTEzMzg0MTc5Miw0NTA0MDY4ODYsMzQ3MT
 g0MTcsNjM1MzU1NjY4XX0=
 -->
