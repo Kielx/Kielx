@@ -1,6 +1,6 @@
 ### Hi there!  I'm Krzysztof 👋
 
-I 👋'm a Software Developer  
+Software Developer currently working on finishing my CS Degree while also being a Law Enforcer, EULEX Peacekeeping mission in Kosovo Veteran,  Personal Trainer, 
 
 <!--
 **Kielx/Kielx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ3MTg0MTcsLTY4NDE1NDM2MSw2MzUzNT
+eyJoaXN0b3J5IjpbMTIwOTI0MTMyNiwzNDcxODQxNyw2MzUzNT
 U2NjhdfQ==
 -->
