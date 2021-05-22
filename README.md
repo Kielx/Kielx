@@ -13,7 +13,7 @@ Software Developer currently working on finishing my CS Degree while also being 
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-React-informational?style=flat&logo=react&logoColor=white&color=blue"></img>
-<img src="https://img.shields.io/badge/Tech-NodeJS-informational?style=flat&logo=Node&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-NodeJS-informational?style=flat&logo=node-dot-js&logoColor=white&color=blue"></img>
 </p>
 
 ##  📈 Github Stats
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODU5NTk1OCwtMTU5OTExODM3NSwtMT
-E2MjQ0Miw3NDU3MjI4ODQsNDUwNDA2ODg2LDM0NzE4NDE3LDYz
-NTM1NTY2OF19
+eyJoaXN0b3J5IjpbODcxMjI1NjA2LC0xNTk5MTE4Mzc1LC0xMT
+YyNDQyLDc0NTcyMjg4NCw0NTA0MDY4ODYsMzQ3MTg0MTcsNjM1
+MzU1NjY4XX0=
 -->
