@@ -19,6 +19,8 @@ Software Developer currently working on finishing my CS Degree while also being 
 <img src="https://img.shields.io/badge/Tech-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-Sass-informational?style=flat&logo=sass&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tools-WSL2-informational?style=flat&logo=windows&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=windows-terminal&logoColor=white&color=blue"></img>
 </p>
@@ -45,7 +47,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjA5MDgyNDksNzUxNDkyNDUzLC0xNT
-k5MTE4Mzc1LC0xMTYyNDQyLDc0NTcyMjg4NCw0NTA0MDY4ODYs
-MzQ3MTg0MTcsNjM1MzU1NjY4XX0=
+eyJoaXN0b3J5IjpbLTI0OTY1Mjg1OCw3NTE0OTI0NTMsLTE1OT
+kxMTgzNzUsLTExNjI0NDIsNzQ1NzIyODg0LDQ1MDQwNjg4Niwz
+NDcxODQxNyw2MzUzNTU2NjhdfQ==
 -->
