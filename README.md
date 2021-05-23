@@ -29,7 +29,7 @@ Software Developer currently working on finishing my CS Degree while also being 
 ##  📈 Github Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=3&theme=buefy"></img>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=3&theme=buefy&hide=css,html"></img>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kielx&count_private=true&show_icons=true&theme=buefy"></img>
 <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=kielx"></img>
 </p>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTU5MDExMTUsNzUxNDkyNDUzLC0xNT
-k5MTE4Mzc1LC0xMTYyNDQyLDc0NTcyMjg4NCw0NTA0MDY4ODYs
-MzQ3MTg0MTcsNjM1MzU1NjY4XX0=
+eyJoaXN0b3J5IjpbLTkwMjYzMzk3OCwtMTAxNTkwMTExNSw3NT
+E0OTI0NTMsLTE1OTkxMTgzNzUsLTExNjI0NDIsNzQ1NzIyODg0
+LDQ1MDQwNjg4NiwzNDcxODQxNyw2MzUzNTU2NjhdfQ==
 -->
