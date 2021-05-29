@@ -1,5 +1,5 @@
 ## Hi there! I'm Krzysztof <img src="https://raw.githubusercontent.com/Kielx/Kielx/main/wave.gif" width="30px">
-Software Developer currently working on finishing my CS Degree while also being a Law Enforcer, EULEX Peacekeeping Mission in Kosovo Veteran, Strength Coach and a family man. Based in 🇵🇱 Poland.
+Software Developer currently working on finishing my CS Degree while also being a Law Enforcer, EULEX Peacekeeping Mission in Kosovo Veteran, Certified Strength Coach and a family man. Based in 🇵🇱 Poland.
 
 - 🛠️ I’m currently working on my Terminal-themed Portfolio site powered by Gatsby and my C/C++ CS Degree assignments and projects.
 - 📚 I’m currently learning C/C++, and brushing up my MERN Stack
