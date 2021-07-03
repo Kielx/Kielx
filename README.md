@@ -1,8 +1,10 @@
 ## Hi there! I'm Krzysztof <img src="https://raw.githubusercontent.com/Kielx/Kielx/main/wave.gif" width="30px">
-Software Developer currently working on finishing my CS Degree while also being a Law Enforcer, EULEX Peacekeeping Mission in Kosovo Veteran, Certified Strength Coach and a family man. Based in 🇵🇱 Poland.
+Software Developer based in Kielce Poland 🇵🇱.
+CS Sophomore at the Kielce University of Technology.
+EULEX Peacekeeping Mission in Kosovo Veteran, Strength Coach, Law Enforcer, and a family man.
 
-- 🛠️ I’m currently working on my Terminal-themed Portfolio site powered by Gatsby and my C/C++ CS Degree assignments and projects.
-- 📚 I’m currently learning C/C++, and brushing up my MERN Stack
+- 🛠️ I’m currently working on my new project - [Strength-Hub](https://github.com/Kielx/Strength-hub) - a place where you can track your strength training plans 
+- 🏁 Finished my latest project - Terminal-themed Portfolio, check it out here [Terminal Portfolio](https://kielx-portfolio.netlify.app/)
 - 📫 Contact me at kielx.dev@gmail.com
 
 
