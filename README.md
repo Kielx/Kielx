@@ -6,6 +6,7 @@ EULEX Peacekeeping Mission in Kosovo Veteran, Strength Coach, Law Enforcer, and 
 - 🛠️ I’m currently working on my new project - [Strength-Hub](https://github.com/Kielx/Strength-hub) - a place where you can track your strength training plans 
 - 🏁 Finished my latest project - [Terminal Portfolio](https://kielx-portfolio.netlify.app/) - be sure to check it out!
 - 📫 Contact me at kielx.dev@gmail.com
+- ⚡ Fun fact: Managed to code for 100 days straight. On my way to 365!
 
 
 ## ⚙️ Tech Stack
