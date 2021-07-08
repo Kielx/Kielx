@@ -1,7 +1,8 @@
 ## Hi there! I'm Krzysztof <img src="https://raw.githubusercontent.com/Kielx/Kielx/main/wave.gif" width="30px">
 Software Developer based in Kielce Poland 🇵🇱.
 CS Sophomore at the Kielce University of Technology.
-EULEX Peacekeeping Mission in Kosovo Veteran, Strength Coach, Law Enforcer, and a family man.
+Passionate about Frontend, Backend, Cloud Technologies and everything tech-related.
+Also a Strength Coach and a family man.
 
 - 🛠️ I’m currently working on my new project - [Strength-Hub](https://github.com/Kielx/Strength-hub) - a place where you can track your strength training plans 
 - 🏁 Finished my latest project - [Terminal Portfolio](https://kielx-portfolio.netlify.app/) - be sure to check it out!
