@@ -1,4 +1,4 @@
-## Hi there! I'm Krzysztof <img src="https://raw.githubusercontent.com/Kielx/Kielx/main/wave.gif" width="30px">
+## Hi there! I'm Chris <img src="https://raw.githubusercontent.com/Kielx/Kielx/main/wave.gif" width="30px">
 Software Developer based in Kielce Poland 🇵🇱.
 CS Sophomore at the Kielce University of Technology.
 Passionate about Frontend, Backend, Cloud Technologies, and everything tech-related.
