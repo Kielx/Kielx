@@ -17,23 +17,27 @@ Also a Strength Coach and a family man.
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Cloud-AmazonDynamoDB-informational?style=flat&logo=amazondynamodb&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-React-informational?style=flat&logo=react&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=blue"></img>
-<img src="https://img.shields.io/badge/Tech-NodeJS-informational?style=flat&logo=node-dot-js&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-NodeJS-informational?style=flat&logo=nodedotjs&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-CSS3-informational?style=flat&logo=css3&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tech-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-Sass-informational?style=flat&logo=sass&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tools-WSL2-informational?style=flat&logo=windows&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=windows-terminal&logoColor=white&color=blue"></img>
+
 </p>
 
 ##  📈 Github Stats
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=3&theme=buefy"></img>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=5&theme=buefy"></img>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kielx&count_private=true&show_icons=true&theme=buefy"></img>
 <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=kielx"></img>
 </p>
