@@ -37,9 +37,9 @@ Also a Strength Coach and a family man.
 ##  📈 Github Stats
 
 <p align="center">
-<img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=5&theme=buefy"></img>
-<img width="49%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=kielx"></img>
-<img width="49%" height="200px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kielx&badges=3&show-avatar=false&style=--border-radius:10px;--header-bg-color:%23809fff"/>
+<img width="40%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=5&theme=buefy"></img>
+<img width="40%"  src="https://github-readme-streak-stats.herokuapp.com/?user=kielx"></img>
+<img width="40%" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=kielx&badges=3&show-avatar=false&style=--border-radius:10px;--header-bg-color:%23809fff"/>
 </p>
 
 <!--
