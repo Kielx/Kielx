@@ -12,8 +12,7 @@ Also a Strength Coach and a family man.
 
 ## ⚙️ Tech Stack
 <p align="center">
-<img src="https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=arch-linux&logoColor=white&color=blue"></img>
-<img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue"></img>
+
 <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue"></img>
@@ -28,9 +27,13 @@ Also a Strength Coach and a family man.
 <img src="https://img.shields.io/badge/Tech-TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-Sass-informational?style=flat&logo=sass&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Tech-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=blue"></img>
-<img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue"></img>
-<img src="https://img.shields.io/badge/Tools-WSL2-informational?style=flat&logo=windows&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/OS-LINUX-informational?style=flat&logo=ubuntu&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=blue"></img>
 <img src="https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=windows-terminal&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tools-WSL2-informational?style=flat&logo=windows&logoColor=white&color=blue"></img>
+<img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=blue"></img>
+
+
 
 </p>
 
