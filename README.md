@@ -5,7 +5,7 @@ Passionate about Frontend, Backend, Cloud Technologies, and everything tech-rela
 Also a Strength Coach and a family man.
 
 - 🛠️ I’m currently working on my new project - [IP-Tracker](https://github.com/Kielx/ip-tracker) - A web app providing user IP data with map
-- 🔥 All of my projects and about me are available at my hottest GitHub Repo - **Terminal Portfolio** - [Live](https://pantak.net) / [GitHub](https://https://github.com/Kielx/terminal-portfolio) - be sure to check it out!
+- 🔥 All of my projects and about me are available at my hottest GitHub Repo - **Terminal Portfolio** - [Live](https://pantak.net) / [GitHub](https://github.com/Kielx/terminal-portfolio) - be sure to check it out!
 - 🏁 Finished my latest projects:
   - **Shortly** - [Live](https://shortly.pantak.net/) / [GitHub](https://github.com/Kielx/url-shortener) - Free and simple URL Shortener
   - **Strength-Hub** - [Live](https://strength-hub.pantak.net) / [GitHub](https://github.com/Kielx/Strength-hub) - Fullstack place where you can track your strength training plans
