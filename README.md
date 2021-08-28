@@ -5,12 +5,12 @@ Passionate about Frontend, Backend, Cloud Technologies, and everything tech-rela
 Also a Strength Coach and a family man.
 
 - 🛠️ I’m currently working on my new project - Image Uploader - [Image Uploader](https://github.com/Kielx/image-uploader)
-- 🔥 All of my projects and about me are available at my hottest GitHub Repo - **Terminal Portfolio** - [Live](https://pantak.net) / [GitHub](https://github.com/Kielx/terminal-portfolio) - be sure to check it out!
+- 🔥 All of my projects and about me are available at my hottest GitHub Repo - **[Terminal Portfolio](https://pantak.net)** / [GitHub](https://github.com/Kielx/terminal-portfolio) - be sure to check it out!
 - 🏁 Finished my latest projects:
-  - **IP-Tracker** - [Live](https://ip-tracker.pantak.net/) / [GitHub](https://github.com/Kielx/ip-tracker) - A web app providing user IP data with map
-  - **Shortly** - [Live](https://shortly.pantak.net/) / [GitHub](https://github.com/Kielx/url-shortener) - Free and simple URL Shortener
-  - **Strength-Hub** - [Live](https://strength-hub.pantak.net) / [GitHub](https://github.com/Kielx/Strength-hub) - Fullstack place where you can track your strength training plans
-  - **Country Quiz** - [Live](https://country-quiz.pantak.net) / [GitHub](https://github.com/Kielx/country-quiz) - Fun and educative game where you can check your country capital and country flag knowledge
+  - **[IP-Tracker](https://ip-tracker.pantak.net/)** / [GitHub](https://github.com/Kielx/ip-tracker) - A web app providing user IP data with map
+  - **[Shortly](https://shortly.pantak.net/)** / [GitHub](https://github.com/Kielx/url-shortener) - Free and simple URL Shortener
+  - **[Strength-Hub](https://strength-hub.pantak.net)** / [GitHub](https://github.com/Kielx/Strength-hub) - Fullstack place where you can track your strength training plans
+  - **[Country Quiz](https://country-quiz.pantak.net)** / [GitHub](https://github.com/Kielx/country-quiz) - Fun and educative game where you can check your country capital and country flag knowledge
 - 📫 Contact me at kielx.dev@gmail.com
 - ⚡ Fun fact: Managed to code for 150 days straight. On my way to 365!
 
