@@ -4,7 +4,7 @@ CS Sophomore at the Kielce University of Technology.
 Passionate about Frontend, Backend, Cloud Technologies, and everything tech-related.
 Also a Strength Coach and a family man.
 
-- 🛠️ I’m currently working on my new project - Appointment website and scheduler for small business owners
+- 🛠️ I’m currently working on my new project - Fully fledged solution for small business owners to handle customer scheduling needs
 - 🔥 All of my projects and about me are available at my hottest GitHub Repo - **[Terminal Portfolio](https://pantak.net)** / [GitHub](https://github.com/Kielx/terminal-portfolio) - be sure to check it out!
 - 🏁 Finished my latest projects:
   - **[My-Unsplash](https://my-unsplash-mu.vercel.app)** / [GitHub](https://github.com/Kielx/my-unsplash) - A unsplash inspired image gallery
