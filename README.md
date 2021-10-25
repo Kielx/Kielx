@@ -1,8 +1,34 @@
-## Hi there! I'm Chris <img src="https://raw.githubusercontent.com/Kielx/Kielx/main/wave.gif" width="30px">
-Software Developer based in Kielce Poland 🇵🇱.
-CS Sophomore at the Kielce University of Technology.
-Passionate about Frontend, Backend, Cloud Technologies, and everything tech-related.
-Also a Strength Coach and a family man.
+<h2 align="center">Hi there! I'm Chris <img src="https://raw.githubusercontent.com/Kielx/Kielx/main/wave.gif" width="30px"></h2>
+  <p align="center">
+<a href="https://pantak.net">
+<img  src="https://img.shields.io/badge/-PORTFOLIO-informational?style=for-the-badge&color=brigthgreen"></img>
+</a>
+</p>
+Web Developer with over 1 year of practical expercience in React, JavaScript, HTML, CSS and TailwindCSS. Enthusiastic about Firebase and AWS. CS Sophomore at the Kielce University of Technology with basic experience in C/C++.
+
+<h3 align="center">My latest projects 🏁</h2>
+<p align="center">
+   <a href="https://my-unsplash-mu.vercel.app/">
+  <img width="400" height="225"src="https://github.com/Kielx/my-unsplash/blob/master/public/My-Unsplash-ss.png?raw=true" />
+     </a>
+     <a href="https://ip-tracker.pantak.net/">
+  <img width="400" height="225" src="https://github.com/Kielx/ip-tracker/blob/master/screenshots/DesktopView.png?raw=true"
+       </a>
+ <a href="https://github.com/Kielx/my-unsplash">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=my-unsplash" />
+</a>
+  <a href="https://github.com/Kielx/ip-tracker">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=ip-tracker" />
+</a>
+ <img width="400" height="225"src="https://github.com/Kielx/my-unsplash/blob/master/public/My-Unsplash-ss.png?raw=true" />
+  <img width="400" height="225" src="https://github.com/Kielx/ip-tracker/blob/master/screenshots/DesktopView.png?raw=true"
+ <a href="https://github.com/Kielx/my-unsplash">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=my-unsplash" />
+</a>
+  <a href="https://github.com/Kielx/ip-tracker">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=ip-tracker" />
+</a>
+</p>
 
 - 🛠️ I’m currently working on my new project - Fully fledged solution for small business owners to handle customer scheduling needs
 - 🔥 All of my projects and about me are available at my hottest GitHub Repo - **[Terminal Portfolio](https://pantak.net)** / [GitHub](https://github.com/Kielx/terminal-portfolio) - be sure to check it out!
