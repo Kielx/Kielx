@@ -7,11 +7,11 @@
 <img  src="https://img.shields.io/badge/-CONTACT-informational?style=for-the-badge&color=blue&logo=gmail&logoColor=white"></img>
 </a>
 </p>
-Web Developer with over 1 year of practical expercience in React, JavaScript, HTML, CSS and TailwindCSS. Enthusiastic about Firebase and AWS. CS Sophomore at the Kielce University of Technology with basic experience in C/C++.
+Web Developer with over 1 year of practical experience in React, JavaScript, HTML, CSS, and TailwindCSS. Enthusiastic about Firebase and AWS. CS Sophomore at the Kielce University of Technology with basic experience in C/C++.
 <br>
 <br>
 
-- 🛠️ I’m currently working on my new project - Fully fledged solution for small business owners to handle customer scheduling needs
+- 🛠️ I’m currently working on my new project - A fully fledged solution for small business owners to handle customer scheduling needs
 - ⚡ Fun fact: Managed to code for 200 days straight. On my way to 365!
 
 <h3 align="center">My latest projects 🏁</h2>
