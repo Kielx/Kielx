@@ -12,7 +12,7 @@ Web Developer with over 1 year of practical experience in React, JavaScript, HTM
 <br>
 
 - 🛠️ I’m currently working on my new project - A fully fledged solution for small business owners to handle customer scheduling needs
-- ⚡ Fun fact: Managed to code for 200 days straight. On my way to 365!
+- ⚡ Fun fact: Managed to code for 300 days straight. Feeling tired and burned out sometimes, but I will keep it on my way to 365!
 
 <h3 align="center">My latest projects 🏁</h2>
 <p align="center">
