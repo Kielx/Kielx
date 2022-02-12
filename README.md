@@ -1,4 +1,4 @@
-<h2 align="center">Hi there! I'm Chris <img src="https://raw.githubusercontent.com/Kielx/Kielx/main/wave.gif" width="30px"></h2>
+<h2 align="center">Hi there! I'm Krzysztof <img src="https://raw.githubusercontent.com/Kielx/Kielx/main/wave.gif" width="30px"></h2>
   <p align="center">
 <a href="https://pantak.net">
 <img  src="https://img.shields.io/badge/-PORTFOLIO-informational?style=for-the-badge&color=brigthgreen"></img>
