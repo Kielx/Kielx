@@ -9,7 +9,7 @@
 </p>
 Software Developer and CS Sophomore at the Kielce University of Technology 🇵🇱.
 
-Creating applications in Next.js, React, JavaScript, HTML, CSS, TailwindCSS, Firebase, AWS and C++.
+Creating applications in Next.js, React, JavaScript, HTML/CSS, TailwindCSS, Firebase, AWS and C++.
 <br>
 <br>
 
