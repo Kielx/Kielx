@@ -7,7 +7,7 @@
 <img  src="https://img.shields.io/badge/-CONTACT-informational?style=for-the-badge&color=blue&logo=gmail&logoColor=white"></img>
 </a>
 </p>
-Software Developer and CS Sophomore at the Kielce University of Technology.
+Software Developer and CS Sophomore at the Kielce University of Technology 🇵🇱.
 
 Creating applications in Next.js, React, JavaScript, HTML, CSS, TailwindCSS, Firebase, AWS and C++.
 <br>
