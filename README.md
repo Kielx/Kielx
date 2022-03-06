@@ -16,7 +16,7 @@ Creating applications in Next.js, React, JavaScript, HTML/CSS, TailwindCSS, Fire
 - 🛠️ I’m currently working on my new project - A fully fledged solution for small business owners to handle customer scheduling needs and building my tech blog
 - ⚡ Fun fact: Managed to code for 300 days straight. On my way to 365!
 
-<h3 align="center">My latest projects 🏁</h2>
+<h3 align="center">Project highlights 🏁</h2>
 <p align="center">
    <a href="https://my-unsplash-mu.vercel.app/">
   <img width="400" height="225"src="https://github.com/Kielx/my-unsplash/blob/master/public/My-Unsplash-ss.png?raw=true" />
