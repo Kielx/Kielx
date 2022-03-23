@@ -14,7 +14,7 @@ Creating applications in Next.js, React, JavaScript, HTML/CSS, TailwindCSS, Fire
 <br>
 
 - 🛠️ I’m currently working on my new project - A fully fledged solution for small business owners to handle customer scheduling needs and building my tech blog
-- ⚡ Fun fact: Managed to code for 300 days straight. On my way to 365!
+- ⚡ Fun fact: Managed to code for 365 days straight!
 
 <h3 align="center">Project highlights 🏁</h2>
 <p align="center">
