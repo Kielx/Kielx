@@ -1,70 +1,7 @@
-<h2 align="center">Hi there! I'm Krzysztof <img src="https://raw.githubusercontent.com/Kielx/Kielx/main/wave.gif" width="30px"></h2>
-  <p align="center">
-<a href="https://pantak.net">
-<img  src="https://img.shields.io/badge/-PORTFOLIO-informational?style=for-the-badge&color=brigthgreen"></img>
-</a>
-<a href="mailto:kielx.dev@gmail.com">
-<img  src="https://img.shields.io/badge/-CONTACT-informational?style=for-the-badge&color=blue&logo=gmail&logoColor=white"></img>
-</a>
-</p>
-Software Developer and CS Sophomore at the Kielce University of Technology 🇵🇱.
-
-Creating applications in Next.js, React, JavaScript, HTML/CSS, TailwindCSS, Firebase, AWS and C++.
-<br>
-<br>
-
-- 🛠️ I’m currently working on my new project - A fully fledged solution for small business owners to handle customer scheduling needs and building my tech blog
-- ⚡ Fun fact: Managed to code for 365 days straight!
-
-<h3 align="center">Project highlights 🏁</h2>
-<p align="center">
-   <a href="https://my-unsplash-mu.vercel.app/">
-  <img width="400" height="225"src="https://github.com/Kielx/my-unsplash/blob/master/public/My-Unsplash-ss.png?raw=true" />
-     </a>
-     <a href="https://ip-tracker.pantak.net/">
-  <img width="400" height="225" src="https://github.com/Kielx/ip-tracker/blob/master/screenshots/ip-trackerss1600x900.png?raw=true"
-       </a>
- <a href="https://github.com/Kielx/my-unsplash">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=my-unsplash" />
-</a>
-  <a href="https://github.com/Kielx/ip-tracker">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=ip-tracker" />
-</a>
-   <a href="https://shortly.pantak.net">
-  <img width="400" height="225"src="https://github.com/Kielx/url-shortener/blob/master/screenshots/shortlyss1600x900.png?raw=true" />
-     </a>
-     <a href="https://strength-hub.pantak.net">
-  <img width="400" height="225" src="https://github.com/Kielx/Strength-hub/blob/master/screenshots/Strength-hub2.png?raw=true"
-       </a>
- <a href="https://github.com/Kielx/url-shortener">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=url-shortener" />
-</a>
-  <a href="https://github.com/Kielx/strength-hub">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=strength-hub" />
-</a>
-       
-<a href="https://pantak.net">
-  <img width="400" height="225"src="https://github.com/Kielx/terminal-portfolio/blob/master/static/portfolioss1600x900.png?raw=true" />
-     </a>
-     <a href="https://country-quiz.pantak.net/">
-  <img width="400" height="225" src="https://github.com/Kielx/country-quiz/blob/master/screenshots/1600-900ss.png?raw=true"
-       </a>
- <a href="https://github.com/Kielx/terminal-portfolio">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=terminal-portfolio" />
-</a>
-  <a href="https://github.com/Kielx/country-quiz">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=country-quiz" />
-</a>
-<h3 align="center">Github Stats 📈</h2>
-<br>
-<p align="center">
-<img width="49%" height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kielx&layout=compact&langs_count=5&theme=buefy"></img>
-<img width="49%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=kielx"></img>
-
-</p>
+CS Sophomore at the Kielce University of Technology 🇵🇱.
+- ⚡ Fun fact: ...Finished my 425 days coding streak. 
 
 
-<!--
 ## ⚙️ Tech Stack
 <p align="center">
 
@@ -93,7 +30,7 @@ Creating applications in Next.js, React, JavaScript, HTML/CSS, TailwindCSS, Fire
 
 
 
-
+<!--
 **Kielx/Kielx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
