@@ -1,5 +1,5 @@
 CS Sophomore at the Kielce University of Technology 🇵🇱.
-- ⚡ Fun fact: ...Finished my 425 days coding streak. 
+- ⚡ Fun fact: ...Finished my 425 days coding streak - taking a long needed break ;)
 
 
 ## ⚙️ Tech Stack
