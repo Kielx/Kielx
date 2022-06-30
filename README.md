@@ -7,15 +7,15 @@
 <img  src="https://img.shields.io/badge/-CONTACT-informational?style=for-the-badge&color=blue&logo=gmail&logoColor=white"></img>
 </a>
 </p>
-Software Developer and CS Sophomore at the Kielce University of Technology 🇵🇱.
+Third year CS Student at the Kielce University of Technology 🇵🇱.
 
-Creating applications in Next.js, React, JavaScript, HTML/CSS, TailwindCSS, Firebase, AWS and C++.
+Creating applications in JavaScript, C, C++, Java, Python using Next.js, React, TailwindCSS, Firebase and AWS.
 <br>
 <br>
 
 <!-- - 🛠️ I’m currently working on my new project - A fully fledged solution for small business owners to handle customer scheduling needs and building my tech blog
 !-->
-- 📚 Currently I'm studying for my third year exams
+- 📚 Passed all of my third year exams. Getting back to my daily coding sessions.
 - ⚡ Fun fact: Taking a long needed break after my 425 days coding streak!
 
 <h3 align="center">Project highlights 🏁</h2>
