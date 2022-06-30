@@ -9,7 +9,7 @@
 </p>
 Third year CS Student at the Kielce University of Technology 🇵🇱.
 
-Creating applications in JavaScript, C, C++, Java, Python using Next.js, React, TailwindCSS, Firebase and AWS.
+Creating applications in JavaScript, C, C++, Java and Python. Using tech such as Next.js, React, TailwindCSS, Firebase and AWS.
 <br>
 <br>
 
