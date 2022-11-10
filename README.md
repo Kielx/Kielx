@@ -14,9 +14,10 @@ Creating applications in JavaScript, C, C++, Java and Python. Using tech such as
 <br>
 
 <!-- - 🛠️ I’m currently working on my new project - A fully fledged solution for small business owners to handle customer scheduling needs and building my tech blog
-!-->
+
 - 📚 Passed all of my third year exams. Getting back to my daily coding sessions.
 - ⚡ Fun fact: Taking a long needed break after my 425 days coding streak!
+!-->
 
 <h3 align="center">Project highlights 🏁</h2>
 <p align="center">
