@@ -3,7 +3,7 @@
 <a href="https://pantak.net">
 <img  src="https://img.shields.io/badge/-PORTFOLIO-informational?style=for-the-badge&color=brigthgreen"></img>
 </a>
-<a href="mailto:krzysztof@pantak.net">
+<a href="mailto:github@pantak.net">
 <img  src="https://img.shields.io/badge/-CONTACT-informational?style=for-the-badge&color=blue&logo=gmail&logoColor=white"></img>
 </a>
 </p>
