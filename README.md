@@ -7,9 +7,10 @@
 <img  src="https://img.shields.io/badge/-CONTACT-informational?style=for-the-badge&color=blue&logo=gmail&logoColor=white"></img>
 </a>
 </p>
-Third year CS Student at the Kielce University of Technology 🇵🇱.
 
-Creating applications in JavaScript, C, C++, Java and Python. Using tech such as Next.js, React, TailwindCSS, Firebase and AWS.
+Well-rounded software developer with skills in several programming languages. Passionate about creating a variety of applications, looking at programmingas a way to solve problems and new interesting challenges. Thanks to my familiarity with different technologies, I am not limiting myself to one approach and can see the diversity of solutions. For me as a programmer, the world of technology is full of possibilities, and every problem seems like an interesting challenge to solve. Ready to take on new projects and collaborate on innovative solutions. Third year CS Student at the Kielce University of Technology 🇵🇱.
+
+Creating applications in JavaScript, TypeScript, C, C++, Python and lately C#. Using tech such as Next.js, React, TailwindCSS, Firebase and AWS.
 <br>
 <br>
 
