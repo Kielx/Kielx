@@ -26,43 +26,51 @@
 
 <h3 align="center">Project highlights 🏁</h2>
 <p align="center">
-   <a href="https://my-unsplash-mu.vercel.app/">
-  <img width="400" height="225"src="https://github.com/Kielx/my-unsplash/blob/master/public/My-Unsplash-ss.png?raw=true" />
-     </a>
-     <a href="https://ip-tracker.pantak.net/">
-  <img width="400" height="225" src="https://github.com/Kielx/ip-tracker/blob/master/screenshots/ip-trackerss1600x900.png?raw=true"
-       </a>
- <a href="https://github.com/Kielx/my-unsplash">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=my-unsplash" />
-</a>
-  <a href="https://github.com/Kielx/ip-tracker">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=ip-tracker" />
-</a>
-   <a href="https://shortly.pantak.net">
-  <img width="400" height="225"src="https://github.com/Kielx/url-shortener/blob/master/screenshots/shortlyss1600x900.png?raw=true" />
-     </a>
-     <a href="https://strength-hub.pantak.net">
-  <img width="400" height="225" src="https://github.com/Kielx/Strength-hub/blob/master/screenshots/Strength-hub2.png?raw=true"
-       </a>
- <a href="https://github.com/Kielx/url-shortener">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=url-shortener" />
-</a>
-  <a href="https://github.com/Kielx/strength-hub">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=strength-hub" />
-</a>
-       
+  <!-- First row !-->
 <a href="https://pantak.net">
   <img width="400" height="225"src="https://github.com/Kielx/terminal-portfolio/blob/master/static/portfolioss1600x900.png?raw=true" />
-     </a>
-     <a href="https://country-quiz.pantak.net/">
-  <img width="400" height="225" src="https://github.com/Kielx/country-quiz/blob/master/screenshots/1600-900ss.png?raw=true"
-       </a>
- <a href="https://github.com/Kielx/terminal-portfolio">
+</a>
+<a href="https://github.com/Kielx/AnyGrabber">
+  <img width="400" height="225" src="https://github.com/Kielx/AnyGrabber/blob/c28d6ad28a4e9706c424c7a468858b84384b8c92/assets_readme/screenshot1.png"
+</a>
+<a href="https://github.com/Kielx/terminal-portfolio">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=terminal-portfolio" />
 </a>
-  <a href="https://github.com/Kielx/country-quiz">
+<a href="https://github.com/Kielx/AnyGrabber">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=AnyGrabber" />
+</a>
+   <!-- /First row !-->
+   <!-- Second row !-->
+<a href="https://my-unsplash-mu.vercel.app/">
+  <img width="400" height="225"src="https://github.com/Kielx/my-unsplash/blob/master/public/My-Unsplash-ss.png?raw=true" />
+</a>
+<a href="https://ip-tracker.pantak.net/">
+  <img width="400" height="225" src="https://github.com/Kielx/ip-tracker/blob/master/screenshots/ip-trackerss1600x900.png?raw=true"
+</a>
+<a href="https://github.com/Kielx/my-unsplash">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=my-unsplash" />
+</a>
+<a href="https://github.com/Kielx/ip-tracker">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=ip-tracker" />
+</a>
+
+<!-- /Second row !-->     
+<!-- Third row !-->
+<a href="https://shortly.pantak.net">
+  <img width="400" height="225"src="https://github.com/Kielx/url-shortener/blob/master/screenshots/shortlyss1600x900.png?raw=true" />
+</a>
+
+<a href="https://country-quiz.pantak.net/">
+  <img width="400" height="225" src="https://github.com/Kielx/country-quiz/blob/master/screenshots/1600-900ss.png?raw=true"
+</a>
+<a href="https://github.com/Kielx/url-shortener">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=url-shortener" />
+</a>
+
+<a href="https://github.com/Kielx/country-quiz">
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=country-quiz" />
 </a>
+<!-- /Third row !-->  
 <h3 align="center">Github Stats 📈</h2>
 <br>
 <p align="center">
