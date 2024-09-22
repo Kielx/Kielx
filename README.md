@@ -44,14 +44,15 @@
 <a href="https://my-unsplash-mu.vercel.app/">
   <img width="400" height="225"src="https://github.com/Kielx/my-unsplash/blob/master/public/My-Unsplash-ss.png?raw=true" />
 </a>
-<a href="https://ip-tracker.pantak.net/">
-  <img width="400" height="225" src="https://github.com/Kielx/ip-tracker/blob/master/screenshots/ip-trackerss1600x900.png?raw=true"
+<a href="https://spottedify.netlify.app/">
+  <img width="400" height="225"src="https://github.com/Kielx/Spottedify/blob/master/assets/readme2.png?raw=true" />
 </a>
+
 <a href="https://github.com/Kielx/my-unsplash">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=my-unsplash" />
 </a>
-<a href="https://github.com/Kielx/ip-tracker">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=ip-tracker" />
+<a href="https://github.com/Kielx/spottedify">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=spottedify" />
 </a>
 
 <!-- /Second row !-->     
@@ -71,6 +72,23 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=country-quiz" />
 </a>
 <!-- /Third row !-->  
+
+<!-- Fourth Row !-->
+<a href="https://github.com/Kielx/Arkanoid">
+  <img width="400" height="225"src="https://github.com/Kielx/Arkanoid/blob/master/images/arkanoid_readme_image1.png?raw=true" />
+</a>
+<a href="https://ip-tracker.pantak.net/">
+  <img width="400" height="225" src="https://github.com/Kielx/ip-tracker/blob/master/screenshots/ip-trackerss1600x900.png?raw=true"
+</a>
+<a href="https://github.com/Kielx/Arkanoid">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=Arkanoid" />
+</a>
+<a href="https://github.com/Kielx/ip-tracker">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Kielx&repo=ip-tracker" />
+</a>
+
+<!-- /Fourth row !-->  
+
 <h3 align="center">Github Stats 📈</h2>
 <br>
 <p align="center">
