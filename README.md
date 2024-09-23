@@ -75,7 +75,7 @@
 
 <!-- Fourth Row !-->
 <a href="https://github.com/Kielx/Arkanoid">
-  <img width="400" height="225"src="https://github.com/Kielx/Arkanoid/blob/master/images/arkanoid_readme_image1.png?raw=true" />
+  <img width="400" height="225"src="https://github.com/Kielx/Arkanoid/blob/master/images/readme2.gif?raw=true" />
 </a>
 <a href="https://ip-tracker.pantak.net/">
   <img width="400" height="225" src="https://github.com/Kielx/ip-tracker/blob/master/screenshots/ip-trackerss1600x900.png?raw=true"
