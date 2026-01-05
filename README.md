@@ -6,4 +6,9 @@ I bridge the gap between low-level system architecture and strategic cyber defen
 * 🎓 **Education:** M.Sc. Eng. in Computer Science.
 * 🛡️ **Background:** LEO & Ex-IBM AI Specialist.
 * 🗣️ **Community:** Active public speaker and cybersecurity trainer.
-* 💻 **Tech Stack:** JavaScript, Python, C++.
+* 🛠 **Core Skills:** Windows Internals, Linux, Memory Forensics.
+* ☁️ **Cloud & Infra:** AWS, Oracle Cloud, Security Architecture.
+* 💻 **Code & Scripting:** Python (Automation), JavaScript, C++. 
+
+
+
